@@ -1,34 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e2299c7.chunk.css",
-    "main.js": "/static/js/main.832ed77d.chunk.js",
-    "main.js.map": "/static/js/main.832ed77d.chunk.js.map",
+    "main.css": "/static/css/main.24c0797a.chunk.css",
+    "main.js": "/static/js/main.67e5b935.chunk.js",
+    "main.js.map": "/static/js/main.67e5b935.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce2543d5.js",
     "runtime-main.js.map": "/static/js/runtime-main.ce2543d5.js.map",
     "static/css/2.1982d49b.chunk.css": "/static/css/2.1982d49b.chunk.css",
-    "static/js/2.e53ae5eb.chunk.js": "/static/js/2.e53ae5eb.chunk.js",
-    "static/js/2.e53ae5eb.chunk.js.map": "/static/js/2.e53ae5eb.chunk.js.map",
+    "static/js/2.b835c166.chunk.js": "/static/js/2.b835c166.chunk.js",
+    "static/js/2.b835c166.chunk.js.map": "/static/js/2.b835c166.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a8f8159545d3de7fdcf26802d8d551a1.js": "/precache-manifest.a8f8159545d3de7fdcf26802d8d551a1.js",
+    "precache-manifest.8b9df8be48e302c19ed52b9f15dfc16d.js": "/precache-manifest.8b9df8be48e302c19ed52b9f15dfc16d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1982d49b.chunk.css.map": "/static/css/2.1982d49b.chunk.css.map",
-    "static/css/main.9e2299c7.chunk.css.map": "/static/css/main.9e2299c7.chunk.css.map",
-    "static/js/2.e53ae5eb.chunk.js.LICENSE": "/static/js/2.e53ae5eb.chunk.js.LICENSE",
+    "static/css/main.24c0797a.chunk.css.map": "/static/css/main.24c0797a.chunk.css.map",
+    "static/js/2.b835c166.chunk.js.LICENSE": "/static/js/2.b835c166.chunk.js.LICENSE",
     "static/media/checkbox-1.svg": "/static/media/checkbox-1.94a3225c.svg",
     "static/media/checkbox-2.svg": "/static/media/checkbox-2.37b21b36.svg",
     "static/media/Main.css": "/static/media/f22bg.40b4626e.png",
     "static/media/icofont.min.css": "/static/media/icofont.f6ab04ae.woff",
-    "static/media/laundry.jpg": "/static/media/laundry.6f2a7a11.jpg",
     "static/media/radio-1.svg": "/static/media/radio-1.814ee3f0.svg",
     "static/media/radio-2.svg": "/static/media/radio-2.43810451.svg",
+    "static/media/s1.jpg": "/static/media/s1.c9eb78ba.jpg",
+    "static/media/s2.jpg": "/static/media/s2.c246b7a4.jpg",
+    "static/media/s3.jpg": "/static/media/s3.24ecbec3.jpg",
     "static/media/sidebar-1.jpg": "/static/media/sidebar-1.6be21e8a.jpg",
     "static/media/zebo-logo.png": "/static/media/zebo-logo.b9d52592.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ce2543d5.js",
     "static/css/2.1982d49b.chunk.css",
-    "static/js/2.e53ae5eb.chunk.js",
-    "static/css/main.9e2299c7.chunk.css",
-    "static/js/main.832ed77d.chunk.js"
+    "static/js/2.b835c166.chunk.js",
+    "static/css/main.24c0797a.chunk.css",
+    "static/js/main.67e5b935.chunk.js"
   ]
 }
