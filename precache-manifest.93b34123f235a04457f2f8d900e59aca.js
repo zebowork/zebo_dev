@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c413027c6549e4171b106fc6a9f222d",
+    "revision": "f6cee1daf9e7593ec0f2c6316046d3cb",
     "url": "/index.html"
   },
   {
-    "revision": "3ad17df3714d2af2ddda",
+    "revision": "706c1573afdb72d90827",
     "url": "/static/css/2.92143a70.chunk.css"
   },
   {
-    "revision": "4972366a9308e56db39e",
+    "revision": "5ccf644e963b74b5c83a",
     "url": "/static/css/main.6dbd8b45.chunk.css"
   },
   {
-    "revision": "3ad17df3714d2af2ddda",
-    "url": "/static/js/2.4c6d8d48.chunk.js"
+    "revision": "706c1573afdb72d90827",
+    "url": "/static/js/2.59e8b67f.chunk.js"
   },
   {
     "revision": "4d47ffde3dc69784e8e23fd910817ef8",
-    "url": "/static/js/2.4c6d8d48.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.59e8b67f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4972366a9308e56db39e",
-    "url": "/static/js/main.ce9dfd8f.chunk.js"
+    "revision": "5ccf644e963b74b5c83a",
+    "url": "/static/js/main.87d6c676.chunk.js"
   },
   {
     "revision": "55175f4ad6389029d586",
@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sidebar-1.6be21e8a.jpg"
   },
   {
-    "revision": "b9d52592fff71f20174e2ac65228e9ad",
-    "url": "/static/media/zebo-logo.b9d52592.png"
+    "revision": "df85b620c97c51ed66bdd1b06d0b27af",
+    "url": "/static/media/zebo-logo.df85b620.png"
   }
 ]);
