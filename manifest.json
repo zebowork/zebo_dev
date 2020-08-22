@@ -1,15 +1,73 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
+  "short_name": "Zebo",
+  "name": "Zebo connecting you with your laundry",
+  "description": "Use it to place order to your favouit lanudry in your area",
+  "categories": ["laundry", "wash", "dryclean", "steampress"],
+  "lang": "en",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#6D71EF",
+  "orientation" : "portrait",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icons/icon96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/iconMaskable221.png",
+      "sizes": "221x221",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/iconMaskable590.png",
+      "sizes": "590x590",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/iconMaskable787.png",
+      "sizes": "787x787",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "badge"
+    }
+  ]
 }
