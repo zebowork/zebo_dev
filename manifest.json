@@ -1,14 +1,14 @@
 {
   "short_name": "Zebo",
-  "name": "Zebo connecting you with your laundry",
-  "description": "Use it to place order to your favouit lanudry in your area",
+  "name": "Zebo - connecting you with your laundry",
+  "description": "Zebo help you to connect you with your lanundry. Use it to place your job to your favouit lanudry in your area. You can check prices of your basket and go to laundry which you like most",
   "categories": ["laundry", "wash", "dryclean", "steampress"],
   "lang": "en",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#6D71EF",
   "orientation" : "portrait",
-  "background_color": "#ffffff",
+  "background_color": "#6d71ef",
   "icons": [
     {
       "src": "icons/icon96.png",
@@ -69,5 +69,28 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "screenshots":[
+    {
+      "src": "https://zebo.work/img/basket.png",
+      "sizes": "506x406",
+      "type": "image/png"
+    },
+    {
+      "src": "https://zebo.work/img/empty.png",
+      "sizes": "506x406",
+      "type": "image/png"
+    },
+    {
+      "src": "https://zebo.work/img/item.png",
+      "sizes": "506x406",
+      "type": "image/png"
+    }
+  ],
+  "features":[
+    "Put laundry in basket",
+    "Check prices and select your zebo",
+    "History & easy to use",
+    "Contact & more"
   ]
 }
