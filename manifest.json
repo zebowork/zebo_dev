@@ -92,5 +92,28 @@
     "Support images",
     "Check prices",
     "History & Contact"
+  ],
+  "shortcuts" : [
+    {
+      "name": "Laundry Basket",
+      "short_name": "Laundry",
+      "description": "Start putting your laundry into basket",
+      "url": "/job",
+      "icons": [{ "src": "/icons/washing-machine.png", "sizes": "1000x1000" }]
+    },
+    {
+      "name": "Laundry History",
+      "short_name": "History",
+      "description": "View the list of your past laundries",
+      "url": "/jobHistory",
+      "icons": [{ "src": "/icons/history.png", "sizes": "1000x1000" }]
+    },
+    {
+      "name": "Contact US",
+      "short_name": "Contact",
+      "description": "You can contact us from this page",
+      "url": "/contact",
+      "icons": [{ "src": "/icons/headphone-alt.png", "sizes": "1000x1000" }]
+    }
   ]
 }
