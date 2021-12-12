@@ -73,32 +73,32 @@
   "screenshots":[
     {
       "src": "https://zebo.work/img/home.png",
-      "sizes": "506x406",
+      "sizes": "1600x2880",
       "type": "image/png"
     },
     {
       "src": "https://zebo.work/img/empty.png",
-      "sizes": "506x406",
+      "sizes": "1600x2880",
       "type": "image/png"
     },
     {
       "src": "https://zebo.work/img/item.png",
-      "sizes": "506x406",
+      "sizes": "1600x2880",
       "type": "image/png"
     },
     {
       "src": "https://zebo.work/img/basket.png",
-      "sizes": "506x406",
+      "sizes": "1600x2880",
       "type": "image/png"
     },
     {
       "src": "https://zebo.work/img/itemDetail.png",
-      "sizes": "506x406",
+      "sizes": "1600x2880",
       "type": "image/png"
     },
     {
       "src": "https://zebo.work/img/postJob.png",
-      "sizes": "506x406",
+      "sizes": "1600x2880",
       "type": "image/png"
     }
   ],
