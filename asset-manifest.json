@@ -32,14 +32,14 @@
     "main.js": "/static/js/main.00ac0159.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7c1eb478.js",
     "static/css/23.3a3c90c8.chunk.css": "/static/css/23.3a3c90c8.chunk.css",
-    "static/js/23.b352e659.chunk.js": "/static/js/23.b352e659.chunk.js",
+    "static/js/23.c93d047a.chunk.js": "/static/js/23.c93d047a.chunk.js",
     "static/css/24.83d4b928.chunk.css": "/static/css/24.83d4b928.chunk.css",
     "static/js/24.6d34585a.chunk.js": "/static/js/24.6d34585a.chunk.js",
     "static/js/25.63db60d2.chunk.js": "/static/js/25.63db60d2.chunk.js",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "static/js/2.f495c0da.chunk.js.LICENSE.txt": "/static/js/2.f495c0da.chunk.js.LICENSE.txt",
-    "static/js/23.b352e659.chunk.js.LICENSE.txt": "/static/js/23.b352e659.chunk.js.LICENSE.txt",
+    "static/js/23.c93d047a.chunk.js.LICENSE.txt": "/static/js/23.c93d047a.chunk.js.LICENSE.txt",
     "static/media/checkbox-1.svg": "/static/media/checkbox-1.7af6d5d9.svg",
     "static/media/checkbox-2.svg": "/static/media/checkbox-2.d4fd4946.svg",
     "static/media/Main.scss": "/static/media/f22bg.39ce3b38.png",
@@ -54,7 +54,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c1eb478.js",
     "static/css/23.3a3c90c8.chunk.css",
-    "static/js/23.b352e659.chunk.js",
+    "static/js/23.c93d047a.chunk.js",
     "static/css/main.f6275126.chunk.css",
     "static/js/main.00ac0159.chunk.js"
   ]
